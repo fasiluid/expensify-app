@@ -8,14 +8,13 @@ exports[`should render ExpenseListitem with expense 1`] = `
       to="/edit/2"
     >
       Coffee
-       : 
-      2
     </Link>
   </h3>
   <p>
-    1050
-     - 
-    -345600000
+    $10.50
+  </p>
+  <p>
+    December 28th, 1969
   </p>
 </div>
 `;
